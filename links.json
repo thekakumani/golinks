@@ -1,3 +1,4 @@
 {
-	"/drive" : "https://drive.google.com"
+	"/drive" : "https://drive.google.com",
+	"/docs" : "https://docs.google.com"
 }
